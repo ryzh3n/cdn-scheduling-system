@@ -3,6 +3,7 @@
 > (This section provides a high-level overview before diving into individual components.)
 
 ## High-Level System Architecture
+![image](https://github.com/user-attachments/assets/2f18202f-c006-4e2a-b33b-e6ac47337e52)
 - Brief diagram of how all CDN components interact.
 - Overview of CDN control plane vs. data plane.
 
