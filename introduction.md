@@ -32,7 +32,8 @@ A CDN optimizes content delivery through **caching, smart routing, and traffic m
 | 🔒 **DDoS Protection** | CDNs absorb attack traffic before it reaches the origin server. |
 | 💰 **Bandwidth Optimization** | Caching reduces the amount of data transferred from the origin. |
 
----
+
+This architecture ensures **low latency, high availability, and strong security** while allowing **real-time updates from the central dashboard**.
 
 ## **🛠 CDN Technology Stack**
 
@@ -161,17 +162,3 @@ GitLab Push → Jenkins CI/CD → Deploys to Kubernetes
 ↳ (Infrastructure Management) → Runs CDN Services
 ↳ (Service Scaling) → Auto-adjusts based on traffic
 ```
-
----
-
-# 🎯 **Summary**
-🚀 **Auto-Scheduling System 4.0** dynamically optimizes **CDN node distribution** using **real-time monitoring, intelligent scheduling, and automated scaling**.  
-
-### **✅ Key Features**
-- **Hybrid Cloud CDN** with private and cloud-based deployments.
-- **Multi-ISP BGP Routing** for network efficiency.
-- **Redis-Based Edge Caching** for low-latency content delivery.
-- **Multi-Layered Security** against DDoS and unauthorized access.
-- **Prometheus + ELK Monitoring** for full-stack observability.
-- **Kubernetes Deployment** for automated scaling and orchestration.
-- **Client Dashboard for Self-Service CDN Management**.
