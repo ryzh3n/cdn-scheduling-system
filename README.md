@@ -2,6 +2,8 @@
 
 ## 📌 Introduction
 
+> Before continue reading, make sure you understand the fundamentals of a CDN system. [Read here](https://github.com/ryzh3n/cdn-scheduling-system/blob/main/introduction.md)
+
 CDN (**Content Delivery Network**) optimization is crucial for ensuring **low latency, high availability, and optimal performance**. However, CDNs often face these challenges:
 
 - **Uneven Load Distribution** → Some nodes are overloaded while others are underutilized.
