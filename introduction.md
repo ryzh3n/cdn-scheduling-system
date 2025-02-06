@@ -1,7 +1,6 @@
 # 🌍 What is a CDN?
 
-[<img src="img/CDN.png">](https://www.cloudns.net/blog/wp-content/uploads/2023/04/CDN.png)
-
+![whatiscdn](https://www.cloudns.net/blog/wp-content/uploads/2023/04/CDN.png)
 
 A **Content Delivery Network (CDN)** is a **distributed network of servers** designed to **accelerate content delivery, enhance reliability, and optimize bandwidth usage**. Instead of serving users from a single origin server, a CDN caches and distributes content across multiple strategically located **edge servers** worldwide.
 
